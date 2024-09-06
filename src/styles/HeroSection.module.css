@@ -1,0 +1,17 @@
+.hero {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    padding: 100px 0;
+  }
+  
+  .title {
+    font-size: 3rem;
+    color: white;
+    margin-bottom: 1rem;
+  }
+  
+  .subtitle {
+    font-size: 1.25rem;
+    color: white;
+    margin-bottom: 2rem;
+  }
+  
